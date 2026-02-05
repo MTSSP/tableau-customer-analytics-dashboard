@@ -10,5 +10,5 @@ This dashboard analyzes customer sales, product performance, and customer segmen
 - Customer Type Product Sales
 - Business Summary Metrics
 
-### 🔗 Live Dashboard[
-](https://public.tableau.com/app/profile/tarun.sri.sai.prabhu.muppana/viz/CustomerDataAnalyticsDashboardAdventureWorks/Dashboard1?publish=yes)
+### 🔗 Live Dashboard
+[(https://public.tableau.com/app/profile/tarun.sri.sai.prabhu.muppana/viz/CustomerDataAnalyticsDashboardAdventureWorks/Dashboard1?publish=yes)]
